@@ -1,0 +1,513 @@
+<!DOCTYPE html>
+
+<html amp lang="en">
+
+  <head>
+
+    <meta charset="utf-8" />
+
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+
+    <script
+
+      async
+
+      custom-element="amp-story"
+
+      src="https://cdn.ampproject.org/v0/amp-story-1.0.js"
+
+    ></script>
+
+    <title>Shayari Ki Galiyao</title>
+
+    <link rel="canonical" href="https://www.shayarikigaliyao.in/" />
+
+    <meta
+
+      name="viewport"
+
+      content="width=device-width,minimum-scale=1,initial-scale=1"
+
+    />
+
+    
+
+    <style amp-boilerplate>
+
+      body {
+
+      color:green;
+
+        -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+
+        -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+
+        -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+
+        animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+
+      }
+
+      @-webkit-keyframes -amp-start {
+
+        from {
+
+          visibility: hidden;
+
+        }
+
+        to {
+
+          visibility: visible;
+
+        }
+
+      }
+
+      @-moz-keyframes -amp-start {
+
+        from {
+
+          visibility: hidden;
+
+        }
+
+        to {
+
+          visibility: visible;
+
+        }
+
+      }
+
+      @-ms-keyframes -amp-start {
+
+        from {
+
+          visibility: hidden;
+
+        }
+
+        to {
+
+          visibility: visible;
+
+        }
+
+      }
+
+      @-o-keyframes -amp-start {
+
+        from {
+
+          visibility: hidden;
+
+        }
+
+        to {
+
+          visibility: visible;
+
+        }
+
+      }
+
+      @keyframes -amp-start {
+
+        from {
+
+          visibility: hidden;
+
+        }
+
+        to {
+
+          visibility: visible;
+
+        }
+
+      }
+
+    </style>
+
+    <noscript
+
+      ><style amp-boilerplate>
+
+        body {
+
+          -webkit-animation: none;
+
+          -moz-animation: none;
+
+          -ms-animation: none;
+
+          animation: none;
+
+        }
+
+      </style></noscript
+
+    >
+
+  </head>
+
+  <body>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <amp-story
+
+    standalone
+
+    title="shayarikigaliyao"
+
+    publisher="Nitish Keshri"
+
+    publisher-logo-src="https://example.com/logo/1x1.png"
+
+    poster-portrait-src="https://www.shayarikigaliyao.in/"
+
+    >
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <amp-story-page id="page4">
+
+    <amp-story-grid-layer template="fill">
+
+    <amp-video autoplay loop
+
+    width="720" height="1280"
+
+    poster="assets/rabbit.jpg"
+
+    layout="responsive">
+
+    <source src="https://res.cloudinary.com/shayari-ki-galiyao/video/upload/v1665235358/Blogger/New_Project_8_A94B3C3_bfudnk.mp4" type="video/mp4">
+
+    </amp-video>
+
+    </amp-story-grid-layer>
+
+    <amp-story-grid-layer template="vertical">
+
+    </amp-story-grid-layer>
+
+    <amp-story-grid-layer template="vertical" class="bottom">
+
+    </amp-story-grid-layer>
+
+    </amp-story-page>
+
+    
+
+    
+
+    
+
+      <amp-story-page id="Nitish">
+
+        <amp-story-grid-layer template="fill">
+
+          <amp-img
+
+            src="https://res.cloudinary.com/shayari-ki-galiyao/image/upload/v1665077149/Best%20wishes/27a4cd24c7217a011cb602fe7cd166f5_cu7q5b.jpg"
+
+            width="900"
+
+            height="1600"
+
+            alt=""
+
+          >
+
+          </amp-img>
+
+        </amp-story-grid-layer>
+
+        <amp-story-grid-layer template="vertical">
+
+          <h1>Hello</h1>
+
+        
+
+        </amp-story-grid-layer>
+
+      </amp-story-page>
+
+      
+
+      
+
+      
+
+      
+
+      <amp-story-page id="Nitish4">
+
+      <amp-story-grid-layer template="fill">
+
+      <amp-video autoplay loop
+
+      width="720" height="1280"
+
+      poster="assets/rabbit.jpg"
+
+      layout="responsive">
+
+      <source src="https://res.cloudinary.com/shayari-ki-galiyao/video/upload/v1665234882/Blogger/New_Project_9_15301DE_v3ld1r.mp4" type="video/mp4">
+
+      </amp-video>
+
+      </amp-story-grid-layer>
+
+      <amp-story-grid-layer template="vertical">
+
+      </amp-story-grid-layer>
+
+      <amp-story-grid-layer template="vertical" class="bottom">
+
+      </amp-story-grid-layer>
+
+      </amp-story-page>
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <amp-story-page id="page4" 
+
+      auto-advance-after="none" >
+
+      <amp-story-grid-layer template="fill">
+
+      <amp-img animate-in-delay="0.5s" 
+
+      animate-in-duration="2s"  
+
+      animate-in="zoom"
+
+      src="https://res.cloudinary.com/shayari-ki-galiyao/image/upload/v1665085075/Blogger/3eff23e03b67d6a38f93d67bf2888c59_cawanc.jpg"
+
+      width="720" height="1280"
+
+      layout="responsive"
+
+      alt="">
+
+      </amp-img>
+
+      </amp-story-grid-layer>
+
+      <amp-story-grid-layer template="thirds">
+
+      <div grid-area="lower-third">
+
+      <div style="bg-opacity:100%; color:#fff;background-color:rgb(0,0,0,0.5); border:10px solid rgb(0,0,0,0.0);border-radius:5px 5px 5px 5px;box-shadow:rgb(255, 70, 123) 0px -4px 7px;"
+
+       class="box" animate-in="fly-in-top" animate-in-delay="0.2s" animate-in-duration="1.5s" >
+
+      
+
+      <div>कोई कहता है प्यार नशा बन जाता है। कोई कहता है प्यार सजा बन जाता है। पर प्यार करो अगर सच्चे दिल से तो वो प्यार ही जीने की वजह बन जाता है।</div></div></div>
+
+      </amp-story-grid-layer></amp-story-page>
+
+      
+
+      
+
+      
+
+      <amp-story-page id="page4">
+
+      <amp-story-grid-layer template="fill">
+
+      <amp-video "autoplay loop"
+
+      width="720" height="1280"
+
+      poster="assets/rabbit.jpg"
+
+      layout="responsive">
+
+      <source src="https://res.cloudinary.com/shayari-ki-galiyao/video/upload/v1665087689/Blogger/Bada_Jalidar_Ba_Tohar_Kurti_40pawan_singh____Romantic_Status____Remix_Bhojpuri_status____SK_CREATION_360p_w04okb.mp4" type="video/mp4">
+
+      </amp-video>
+
+      </amp-story-grid-layer>
+
+      <amp-story-grid-layer template="vertical">
+
+      </amp-story-grid-layer>
+
+      <amp-story-grid-layer template="vertical" class="bottom">
+
+      </amp-story-grid-layer>
+
+      </amp-story-page>
+
+      
+
+      
+
+      
+
+      <amp-story-page id="Nitish">
+
+      auto-advance-after="none" >
+
+        <amp-story-grid-layer template="fill">
+
+          <amp-img animate-in-delay="0.5s" 
+
+          animate-in-duration="2s"  
+
+          animate-in="zoom"
+
+            src="https://res.cloudinary.com/shayari-ki-galiyao/image/upload/v1665066944/Best%20wishes/bg_kskorn.jpg"
+
+            width="720"
+
+            height="1280"
+
+            layout="responsive"
+
+            alt="">
+
+          </amp-img>
+
+        </amp-story-grid-layer>
+
+        <amp-story-grid-layer template="thirds">
+
+          <div grid-area="lower-third">
+
+          <div style=" color:#fff;background-color:rgb(0,0,0,0.5); border:10px solid rgb(0,0,0,0.0);border-radius:5px 5px 5px 5px;box-shadow:rgb(255, 70, 123) 0px -4px 7px;"
+
+          class="box" animate-in="fly-in-top" animate-in-delay="0.2s" animate-in-duration="1.5s" >
+
+          
+
+          
+
+          <div>ये मोहब्बत है जनाब कितनी भी तकलीफ दे,मगर सुकून भी उसीकी बाहों में मिलता है।</div></div></div>
+
+        </amp-story-grid-layer>
+
+      </amp-story-page>
+
+    
+
+    
+
+    <amp-story-page id="Nitish1">
+
+    <amp-story-grid-layer template="fill">
+
+    <amp-img
+
+    src="https://res.cloudinary.com/shayari-ki-galiyao/image/upload/v1665066944/Best%20wishes/taj_fleoge.jpg"
+
+    width="900"
+
+    height="1600"
+
+    alt=""
+
+    >
+
+    </amp-img>
+
+    </amp-story-grid-layer>
+
+    <amp-story-grid-layer template="vertical">
+
+    <h1>Nitish</h1>
+
+    </amp-story-grid-layer>
+
+    </amp-story-page>
+
+   
+
+    
+
+    
+
+    <amp-story-page id="page4">
+
+    <amp-story-grid-layer template="fill">
+
+    <amp-video autoplay loop
+
+    width="720" height="1280"
+
+    poster="assets/rabbit.jpg"
+
+    layout="responsive">
+
+    <source src="https://res.cloudinary.com/shayari-ki-galiyao/video/upload/v1665087689/Blogger/Bada_Jalidar_Ba_Tohar_Kurti_40pawan_singh____Romantic_Status____Remix_Bhojpuri_status____SK_CREATION_360p_w04okb.mp4" type="video/mp4">
+
+    </amp-video>
+
+    </amp-story-grid-layer>
+
+    <amp-story-grid-layer template="vertical">
+
+    </amp-story-grid-layer>
+
+    <amp-story-grid-layer template="vertical" class="bottom">
+
+    </amp-story-grid-layer>
+
+    </amp-story-page>
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    <amp-story-social-share layout="nodisplay" class="i-amphtml-layout-nodisplay" hidden="hidden" i-amphtml-layout="nodisplay"><script type="application/json">{"shareProviders":[{"provider":"twitter"},{"provider":"whatsapp"},{"provider":"facebook"},{"provider":"system"}]}</script></amp-story-social-share>
+
+    </amp-story>
